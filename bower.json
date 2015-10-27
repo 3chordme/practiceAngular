@@ -1,0 +1,13 @@
+{
+  "name": "practice_angular",
+  "description": "practicing some angular and some bower",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7"
+  }
+}
